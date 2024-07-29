@@ -1,6 +1,6 @@
 # MeDoraH
 
-## Workflow Diagram
+## Workflow Diagrams
 
 The following diagram illustrates the main workflow of ontology design in our project:
 
@@ -8,13 +8,17 @@ The following diagram illustrates the main workflow of ontology design in our pr
 
 
 
-Some steps required to capture sufficent information before developing a prototype
+
+
+#### Some steps required to capture sufficent information before developing a prototype:
 
 ![Workflow Diagram](Workflows/Conceptualisation.svg)
 
 
 
-The Ontology Population workflow provides a detailed breakdown of the process involved in populating the ontology with the interview data.
+
+
+#### A breakdown of the Ontology Population workflow with the iterative refinement steps included:
 
 ![Workflow Diagram](Workflows/OntologyPopulation.svg)
 
